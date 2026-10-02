@@ -1,12 +1,12 @@
-\# Cybersecurity Internship - Task 2
+# Cybersecurity Internship - Task 2
 
 
 
-\## Task: Analyze a Phishing Email Sample
+## Task: Analyze a Phishing Email Sample
 
 
 
-\### Objective
+### Objective
 
 
 
@@ -14,7 +14,7 @@ The objective of this task is to identify phishing characteristics in a suspicio
 
 
 
-\### Task Requirements
+### Task Requirements
 
 
 
@@ -22,23 +22,23 @@ The task focuses on:
 
 
 
-\- Identifying sender spoofing
+- Identifying sender spoofing
 
-\- Examining email headers
+- Examining email headers
 
-\- Identifying suspicious links or attachments
+- Identifying suspicious links or attachments
 
-\- Detecting urgent or threatening language
+- Detecting urgent or threatening language
 
-\- Checking for mismatched URLs
+- Checking for mismatched URLs
 
-\- Identifying spelling and grammar issues
+- Identifying spelling and grammar issues
 
-\- Summarizing phishing characteristics
+- Summarizing phishing characteristics
 
 
 
-\### Sample Used
+### Sample Used
 
 
 
@@ -50,39 +50,39 @@ The example involves an email impersonating Netflix and claiming that the recipi
 
 
 
-\### Files
+### Files
 
 
 
-\- `sample\_phishing\_email.md` - Contains the reconstructed phishing-email scenario and its source.
+- `sample\_phishing\_email.md` - Contains the reconstructed phishing-email scenario and its source.
 
-\- `phishing\_email\_analysis.md` - Contains the detailed phishing-indicator analysis.
+- `phishing\_email\_analysis.md` - Contains the detailed phishing-indicator analysis.
 
-\- `screenshots/` - Contains screenshots used as supporting evidence.
-
-
-
-\### Key Concepts
+- `screenshots/` - Contains screenshots used as supporting evidence.
 
 
 
-\- Phishing
-
-\- Email spoofing
-
-\- Social engineering
-
-\- Suspicious links
-
-\- Email header analysis
-
-\- Threat detection
-
-\- Cybersecurity awareness
+### Key Concepts
 
 
 
-\### Reference
+- Phishing
+
+- Email spoofing
+
+- Social engineering
+
+- Suspicious links
+
+- Email header analysis
+
+- Threat detection
+
+- Cybersecurity awareness
+
+
+
+### Reference
 
 
 
@@ -94,7 +94,7 @@ https://consumer.ftc.gov/consumer-alerts/2018/12/netflix-phishing-scam-dont-take
 
 
 
-\### Disclaimer
+### Disclaimer
 
 
 
